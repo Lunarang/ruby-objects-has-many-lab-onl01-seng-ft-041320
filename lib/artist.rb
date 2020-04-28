@@ -19,7 +19,7 @@ class Artist
   end
   
   def song_count 
-    Song.all.size
+    puts "ji"
   end
   
 end
