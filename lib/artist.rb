@@ -7,4 +7,6 @@ class Artist
   
   def songs 
     Song.all
+  end
+  
 end
