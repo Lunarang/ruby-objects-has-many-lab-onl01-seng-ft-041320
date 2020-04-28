@@ -16,4 +16,5 @@ class Song
     @@all
   end
   
+  deef
 end
